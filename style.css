@@ -1,0 +1,17 @@
+#link{
+   text-align:center;
+   display:block;
+}
+
+div.text{
+   width:390px;
+   text-align:left;
+}
+
+#highlight{
+   background-color:orange;
+}
+
+.red_text{
+   color:red;
+}
